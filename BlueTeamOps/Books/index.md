@@ -1,1 +1,3 @@
 [Blue Team Handbook: Soc, SIEM, and Theat Hunting Use case Notes From Fields](https://anonfiles.com/18A3Mal5z2/blue_team_handbook_soc_siem_amp_threats_hunting_use_cases_notes_from_fields_v102_9781021493896_compress_pdf)
+
+[Blue Team Field Manual](https://github.com/xsj3n/InformationSecurityResources/blob/main/BlueTeamOps/Books/Blue%20Team%20Field%20Manual.pdf)
