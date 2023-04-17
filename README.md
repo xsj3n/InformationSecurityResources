@@ -5,7 +5,10 @@ Information security resources, categorized
 
 
 ## Special Mentions
-Open Security Training 2 - Advanced Content: Contains great foundational information for exploit development, such as x64 assembly, reverse engineering, debugging, and deep dives into Windows/Intel architecture.
+[Open Security Training 2](https://p.ost2.fyi/courses) - Advanced Content: Contains great foundational information for exploit development, such as x64 assembly, reverse engineering, debugging, and deep dives into Windows/Intel architecture.
+
+[ired.team](https://github.com/mantvydasb/RedTeaming-Tactics-and-Techniques) - Medium to Advanced Content: Great labs and red team tech refrence. 
+
 
 
 
